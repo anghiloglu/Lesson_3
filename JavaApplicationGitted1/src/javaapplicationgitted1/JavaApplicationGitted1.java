@@ -16,6 +16,7 @@ public class JavaApplicationGitted1 {
      */
     public static void main(String[] args) {
         System.out.println("Gitted");
+        System.out.println("pas-2");
     }
     
 }
