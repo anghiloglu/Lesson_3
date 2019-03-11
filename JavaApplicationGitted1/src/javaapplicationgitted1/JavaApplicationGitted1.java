@@ -5,6 +5,9 @@
  */
 package javaapplicationgitted1;
 
+import java.util.Arrays;
+import java.util.Set;
+
 /**
  *
  * @author Bax
@@ -15,8 +18,9 @@ public class JavaApplicationGitted1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        //TODO something 
         System.out.println("Gitted");
         System.out.println("pas-2");
+                
     }
-    
 }
